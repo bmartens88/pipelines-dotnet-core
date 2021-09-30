@@ -1,5 +1,8 @@
-[![Build Status](https://dev.azure.com/KompelDev/Azure%20Pipelines%20Demo/_apis/build/status/bmartens88.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/KompelDev/Azure%20Pipelines%20Demo/_build/latest?definitionId=1&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
+
+[azure_build]: https://dev.azure.com/KompelDev/Azure%20Pipelines%20Demo/_apis/build/status/bmartens88.pipelines-dotnet-core?branchName=master "Build Status"
+
+![alt text][azure_build]
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building .NET Core applications, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=azure-devops).
